@@ -41,4 +41,4 @@ long-range structure that local GNN neighborhoods miss.
 Yuan et al., **ContextGNN: Beyond Two-Tower Recommendation Systems**,
 ICLR 2025.
 
-[Read the full proposal](proposal.pdf)
+[Read the full proposal](https://github.com/Aksinya-Bykova/Spectral-Discovery/blob/main/Yandex_Residency_Proposal%20(2).pdf)
